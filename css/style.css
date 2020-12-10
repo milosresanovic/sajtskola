@@ -1107,14 +1107,17 @@ main{
     animation-duration: 0.7s;
     animation-iteration-count: 1;
 }
-@keyframes pomeriTekst{
-    from{padding-top:10px;}
-    to{padding-top: 30px;}
-}
-
 .blokGalerija p{
     text-align: center;
     margin-top: 10px;
+}
+.redGalerija h1{
+    font-size: 34px;
+    color: #3d3d3d;
+    font-weight: 700;
+}
+#mrezeFuter a div  .narandzasto{
+    color: orange;
 }
 
 
