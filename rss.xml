@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Obavestenja</title>
+        <link>https://milosresanovic.github.io/sajtskola/index.html</link>
+        <description>Obavestenja sa sajta FixIt</description>
+        <item>
+            <title>Novogodišnji popust</title>
+            <link>https://milosresanovic.github.io/sajtskola/index.html</link>
+            <description>Popust na popravku Apple uredjaja</description>
+        </item>
+        <item>
+            <title>Kućni servis</title>
+            <link>https://milosresanovic.github.io/sajtskola/pages/cenovnik.html</link>
+            <description>Popravka računara kod Vaše kuće</description>
+        </item>
+    </channel>
+</rss>
